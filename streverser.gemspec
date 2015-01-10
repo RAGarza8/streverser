@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Streverser::VERSION
   spec.authors       = ["Erik Trautman"]
   spec.email         = ["hello@vikingcodeschool.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Reversing strings since 2015}
+  spec.description   = %q{Work it, work it... reverse it.}
+  spec.homepage      = "http://www.vikingcodeschool.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
